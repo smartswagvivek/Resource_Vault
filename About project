@@ -1,0 +1,14 @@
+Resource Vault
+
+Description
+Resource Vault is a desktop application developed using Java Swing, with MySQL as the database for secure storage and management of digital resources. It provides a seamless interface for adding, updating, and removing resources while ensuring efficient organization and retrieval.
+
+Features
+Add, update, and delete resources effortlessly.
+Organize resources using categories and tags.
+Advanced search for quick retrieval of stored resources.
+MySQL database used for robust and reliable data storage.
+
+Technologies Used
+Frontend: Java Swing
+Backend Storage: MySQ
